@@ -1,0 +1,15 @@
+/Users/apple/Projects/QaBootcamp/QaBootcamp/bin/Debug/net7.0/QaBootcamp
+/Users/apple/Projects/QaBootcamp/QaBootcamp/bin/Debug/net7.0/QaBootcamp.deps.json
+/Users/apple/Projects/QaBootcamp/QaBootcamp/bin/Debug/net7.0/QaBootcamp.runtimeconfig.json
+/Users/apple/Projects/QaBootcamp/QaBootcamp/bin/Debug/net7.0/QaBootcamp.dll
+/Users/apple/Projects/QaBootcamp/QaBootcamp/bin/Debug/net7.0/QaBootcamp.pdb
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.csproj.AssemblyReference.cache
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.AssemblyInfoInputs.cache
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.AssemblyInfo.cs
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.dll
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/refint/QaBootcamp.dll
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.pdb
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/QaBootcamp.genruntimeconfig.cache
+/Users/apple/Projects/QaBootcamp/QaBootcamp/obj/Debug/net7.0/ref/QaBootcamp.dll
